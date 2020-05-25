@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/react-typingspeedcalculator/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/github.io/react-typingspeedcalculator/static/js/main.9cd5f9aa.chunk.js",
-    "main.js.map": "/github.io/react-typingspeedcalculator/static/js/main.9cd5f9aa.chunk.js.map",
-    "runtime-main.js": "/github.io/react-typingspeedcalculator/static/js/runtime-main.d8ea0573.js",
-    "runtime-main.js.map": "/github.io/react-typingspeedcalculator/static/js/runtime-main.d8ea0573.js.map",
-    "static/js/2.0d3c7948.chunk.js": "/github.io/react-typingspeedcalculator/static/js/2.0d3c7948.chunk.js",
-    "static/js/2.0d3c7948.chunk.js.map": "/github.io/react-typingspeedcalculator/static/js/2.0d3c7948.chunk.js.map",
-    "index.html": "/github.io/react-typingspeedcalculator/index.html",
-    "precache-manifest.a31e525071509074d999707bb08e247b.js": "/github.io/react-typingspeedcalculator/precache-manifest.a31e525071509074d999707bb08e247b.js",
-    "service-worker.js": "/github.io/react-typingspeedcalculator/service-worker.js",
-    "static/css/main.d498bfb3.chunk.css.map": "/github.io/react-typingspeedcalculator/static/css/main.d498bfb3.chunk.css.map",
-    "static/js/2.0d3c7948.chunk.js.LICENSE.txt": "/github.io/react-typingspeedcalculator/static/js/2.0d3c7948.chunk.js.LICENSE.txt"
+    "main.css": "/react-typingspeedcalculator/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/react-typingspeedcalculator/static/js/main.1fb14364.chunk.js",
+    "main.js.map": "/react-typingspeedcalculator/static/js/main.1fb14364.chunk.js.map",
+    "runtime-main.js": "/react-typingspeedcalculator/static/js/runtime-main.f2a00a81.js",
+    "runtime-main.js.map": "/react-typingspeedcalculator/static/js/runtime-main.f2a00a81.js.map",
+    "static/js/2.0d3c7948.chunk.js": "/react-typingspeedcalculator/static/js/2.0d3c7948.chunk.js",
+    "static/js/2.0d3c7948.chunk.js.map": "/react-typingspeedcalculator/static/js/2.0d3c7948.chunk.js.map",
+    "index.html": "/react-typingspeedcalculator/index.html",
+    "precache-manifest.78b5090eeb19fb11079455680059d650.js": "/react-typingspeedcalculator/precache-manifest.78b5090eeb19fb11079455680059d650.js",
+    "service-worker.js": "/react-typingspeedcalculator/service-worker.js",
+    "static/css/main.d498bfb3.chunk.css.map": "/react-typingspeedcalculator/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.0d3c7948.chunk.js.LICENSE.txt": "/react-typingspeedcalculator/static/js/2.0d3c7948.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8ea0573.js",
+    "static/js/runtime-main.f2a00a81.js",
     "static/js/2.0d3c7948.chunk.js",
     "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.9cd5f9aa.chunk.js"
+    "static/js/main.1fb14364.chunk.js"
   ]
 }
